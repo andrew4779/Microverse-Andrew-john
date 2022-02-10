@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+#header-img{
+    width: 250px;
+}

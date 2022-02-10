@@ -9,3 +9,17 @@ header{
 #header-img{
     width: 250px;
 }
+section{
+    margin: 100px auto;
+    max-width: 900px;
+}
+#features .grid{
+    margin-bottom: 2em;
+}
+#how-it-works{
+    text-align: center;
+}
+#pricing{
+    display: flex;
+    justify-content: space-between;
+}
